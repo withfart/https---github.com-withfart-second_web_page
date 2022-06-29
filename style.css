@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+}
+
+body {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.first_txt{
+  font-weight: 600;
+}
+
+.first_step {
+  font-size: 40px;
+  font-weight: 900;
+  color: #0B0A05;
+}
+
+h2 {
+  margin-top: 15px;
+}
+
+p {
+  margin-top: 15px;
+}
+
+b {
+  color: #072CB0;
+}
+ol{
+  margin-top: 15px;
+}
